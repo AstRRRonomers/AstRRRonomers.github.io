@@ -1,0 +1,16 @@
+{
+"companyName": "AstRRRonomers",
+"productName": "AstralityVR",
+"productVersion": "0.1",
+"dataUrl": "AstRRRonomers.github.io.data.unityweb",
+"wasmCodeUrl": "AstRRRonomers.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "AstRRRonomers.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
