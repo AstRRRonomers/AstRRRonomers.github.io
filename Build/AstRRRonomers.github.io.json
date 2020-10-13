@@ -1,7 +1,7 @@
 {
 "companyName": "AstRRRonomers",
 "productName": "AstralityVR",
-"productVersion": "0.1",
+"productVersion": "0.4",
 "dataUrl": "AstRRRonomers.github.io.data.unityweb",
 "wasmCodeUrl": "AstRRRonomers.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "AstRRRonomers.github.io.wasm.framework.unityweb",
